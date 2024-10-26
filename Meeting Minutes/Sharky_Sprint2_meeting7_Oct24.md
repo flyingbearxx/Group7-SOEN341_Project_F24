@@ -3,18 +3,13 @@
 **MINUTES WRITER:** Shaili, Raghda  
 **MEETING PARTICIPANTS:** Shaili, Raghda, Ana, Yasmeen, Hala, Khujista, TA
 
-**REVIEW OF ACTIONS:**  
-Hala has failed to complete the task assigned to her on October 19th: Per the TA's instructions, Hala shall transfer back the ownership of the GitHub to Shaili.
-
-
 **DISCUSSION TOPICS:**
-  1. Showing the TA our progress and taking notes of what we should add/change in our project. 
+  1. Hala showed the TA our progress and the team sought feedback of what we should add/change in our project Github. 
   
-**DECISIONS:**  
+**Feedback Received:**  
   1. We should create 2 acceptance tests (minimum) for functionalities implemeted in sprint 1
-  2. Raghda will do a minimum of 1 acceptance test.
-  3. Shaili will improve the README file based on REACT guidelines. 
-  4. All team members will include detailed descriptions within their raised issues on GitHub.
+  2. We should create user stories to capture the requirements of each feature.
+  3. We should establish a CI pipeline to automate test runs and code quality checks.
  
 **ACTIONS FOR NEXT MEETING:**  
   1. Completion of all tasks attributed to team members by Sprint 2's deadline, October 27.
