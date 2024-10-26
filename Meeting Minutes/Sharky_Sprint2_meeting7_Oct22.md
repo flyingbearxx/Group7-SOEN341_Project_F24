@@ -1,6 +1,6 @@
 ## **MEETING DATE:** October 22th, 2024  (online meeting)
 
-**MINUTES WRITER:** Ana, Khujista
+**MINUTES WRITER:** Ana, Khujista  
 **MEETING PARTICIPANTS:** Ana, Khujista
 
 **DISCUSSION TOPICS:**
